@@ -2,6 +2,5 @@ numpy
 pandas
 flask
 scikit-learn==1.3.2
-xgboost
 dill
 # -e .
